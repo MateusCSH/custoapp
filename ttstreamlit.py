@@ -5,7 +5,7 @@ import time
 
 
 st.set_page_config(
-                   page_title='Bora',
+                   page_title='CEM_DRIVER',
                    layout='wide')
 
 py2 = st.file_uploader('Select seu arquivo',type='csv')
